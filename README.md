@@ -11,4 +11,4 @@ its rate of speed of transfer is 1 mbps to 5 mbps, depands on BUFFER_SIZE
 for more info contact me , whatsapp  no - +91 6263376302
 
 
-# some inporatnt feature you can add by importing  [ multiprocesing, threading, asyancio ] etc.
+# some imporatnt feature you can add by importing  [ multiprocesing, threading, asyancio ] etc.
